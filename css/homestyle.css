@@ -1,0 +1,72 @@
+CSS
+
+body {
+	margin: 0px;
+}
+
+h1 {
+	font-size: 10em;
+	text-align: center;
+}
+
+h2 {
+	font-size: 3em;
+	text-align: center;
+	color: rgb(250, 155, 157);
+}
+
+img {
+	display: flex;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+p {
+	margin: 10vh 10vw;
+	font-size: 1em;
+}
+
+ol {
+	list-style: none;
+	font-size: 2em;
+	display: flex;
+	color: rgb(000, 000, 000)
+}
+
+div.contrast {
+	background-color: rgb(237, 147, 144);
+	color: rgb(255, 255, 255);
+}
+
+div.background2 {
+	background-color: rgb(219, 219, 219);
+}
+
+a {
+	color: rgb(000, 000, 000);
+}
+
+div.contest {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+div.net {
+	display: flex;
+	justify-content: space-between;
+}
+
+h3,
+p2 {
+	text-align: center;
+}
+
+p3 {
+	font-size: 2em;
+}
+
+p4 {
+	font-size: 0.75em;
+	color: rgb(89, 89, 89)
+}

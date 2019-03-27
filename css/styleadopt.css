@@ -24,6 +24,25 @@ div.background {
 	background-color: rgb(220, 220, 220);
 }
 
+img {
+	width: 400px;
+	height: 320px;
+}
+
 p3 {
-	font-size: 0.75em
+	font-size: 0.75em;
+}
+
+div.p3 {
+	background-color: rgb(220, 220, 220);
+}
+
+figure {
+	text-align: center;
+	font-style: italic;
+	font-size: smaller;
+	text-indent: 0;
+	border: thin silver solid;
+	margin: 0.5em;
+	padding: 0.5em;
 }

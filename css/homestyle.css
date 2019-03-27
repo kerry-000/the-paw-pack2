@@ -9,6 +9,11 @@ h1 {
 	text-align: center;
 }
 
+div.navbar {
+	padding-left: 0px;
+	background-color: #FFE4E1;
+}
+
 h2 {
 	font-size: 3em;
 	text-align: center;
@@ -34,7 +39,7 @@ ol {
 }
 
 div.contrast {
-	background-color: rgb(237, 147, 144);
+	background-color: #FFE4E1;
 	color: rgb(255, 255, 255);
 }
 

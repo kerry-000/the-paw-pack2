@@ -70,6 +70,8 @@ h3,p2 {
 
 p3 {
 	font-size: 1em;
+	display: flex;
+	text-align: justify;
 }
 
 p4 {

@@ -1,22 +1,19 @@
 h1 {
   text-align: center;
-  font-family: georgia;
+  
 }
 div.navbar {
-font-family: georgia;
 padding-left: 0px;
 background-color: #FFE4E1;
 }
 div.content {
   padding-left: 150px;
-  font-family: georgia;
   padding-right: 150px;
   padding-bottom: 15px;
   background-color: #FFE4E1;
 }
 p.disclaimer {
   background-color: #FFE4E1;
-  font-family: georgia;
   padding-left: 150px;
   padding-right: 150px;
 }

@@ -64,6 +64,8 @@ div.net {
 
 h3,p2 {
 	text-align: center;
+	display: flex;
+	text-align: justify;
 }
 
 p3 {

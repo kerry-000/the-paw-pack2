@@ -62,13 +62,14 @@ div.net {
 	justify-content: space-between;
 }
 
-h3,
-p2 {
+h3,p2 {
 	text-align: center;
+	font-size: 1.2em
+}
 }
 
 p3 {
-	font-size: 1.5em;
+	font-size: 1.2em;
 }
 
 p4 {
